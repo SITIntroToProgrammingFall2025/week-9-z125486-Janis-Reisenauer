@@ -47,7 +47,7 @@ int main()
         attempt_count++;
     }
 
-    printf("sorted array:\n");
+    printf("Help me pls its not updating the code proper sorted array:\n");
     for (i = 0; i < 5; i++)
     {
         printf("%d ", a[i]);
