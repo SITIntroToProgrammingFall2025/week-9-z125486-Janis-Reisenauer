@@ -37,4 +37,5 @@ int main() {
     printf("The nearest color is %s\n", color_name[closest_color_index]);
     
     return 0;
+
 }
